@@ -1,0 +1,17 @@
+---
+import type { sequence } from "astro:middleware";
+import Social from './Social.astro';
+---
+
+<style>
+  footer {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+</style>
+
+<footer>
+  <Social platform="github" username="jstrother" />
+  <Social platform="linkedin" username="in/jimstrother" />
+</footer>
