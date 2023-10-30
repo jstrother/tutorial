@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: My First Blog Post
 author: Jim Strother
 description: 'This is the first post of my new Astro blog.'
